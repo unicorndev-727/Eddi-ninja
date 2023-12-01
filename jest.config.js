@@ -3,7 +3,7 @@
 
 const config = {
 	preset: "jest-expo",
-	setupFilesAfterEnv: ["@testing-library/jest-native/extend-expect"]
-};
+	setupFilesAfterEnv: ["@testing-library/jest-native/extend-expect"],
+}
 
-module.exports = config;
+module.exports = config
